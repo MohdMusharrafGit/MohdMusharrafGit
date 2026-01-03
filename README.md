@@ -43,7 +43,7 @@ To apply my technical expertise and creativity in developing next-generation sol
 `Embedded Systems`, `Microcontrollers`, `IoT`, `Communication Systems`, `Avionics`, `AI/ML`
 
 **Tools & Hardware:**  
-`Arduino`, `ESP32`, `LPC2148`, `Simulink`, `Git`, `Arduino IDE`, `LoRa Modules`
+`Arduino`, `ESP32`,`STM32`, `LPC2148`, `Simulink`, `Git`, `Arduino IDE`, `LoRa Modules`
 
 ---
 
