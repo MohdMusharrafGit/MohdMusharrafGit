@@ -49,6 +49,13 @@ To apply my technical expertise and creativity in developing next-generation sol
 
 ## 🚀 Projects
 
+### 🔹 ESP8266 GSM Shutter Alert System *(Individual Project, 2025)*
+Developed a **GSM-based shutter monitoring system** using ESP8266 and SIM800L for security applications.  
+Implemented **real-time OPEN/CLOSE detection** with **instant SMS alerts**, functioning without Wi-Fi or internet.  
+**Tech:** ESP8266, SIM800L, C/C++, Arduino IDE, GSM AT Commands, EEPROM
+
+---
+
 ### 🔹 ESP32 Secure OTA Firmware Update via HTTPS *(Individual Project, 2025)*
 Developed a secure **Over-The-Air (OTA)** firmware update mechanism for ESP32 using **HTTPS protocol**.  
 Integrated **GitHub-hosted firmware**, version control, and automatic update checks to enable **remote, cloud-based firmware deployment**.  
