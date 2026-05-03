@@ -1,126 +1,79 @@
 # 👋 Hi, I'm Mohd Musharraf
 
-🎓 **B.Tech in Electronics & Communication Engineering (Avionics)** — Central University of Jammu (2022–2026)  
-📍 Saharanpur, Uttar Pradesh, India  
-💡 Passionate about **AI/ML, Avionics, Embedded Systems, IoT, and Space Technology**  
+🚀 Embedded Systems & Firmware Engineer focused on building real-world embedded and industrial systems.
 
 ---
 
-## 🌟 About Me
+## ⚡ About Me
 
-I’m an engineering student passionate about integrating **intelligence with hardware** — building secure, efficient, and innovative systems that connect the physical and digital worlds.  
-I have hands-on experience in **IoT systems, firmware development, and avionics subsystems**, combining hardware design with intelligent automation.
+I design and develop embedded firmware in **C/C++**, working across microcontrollers and system-level integration.
 
-Currently:
-- ⚙️ **Intern @ Advancetech India Pvt. Ltd. (2025 – Ongoing)**  
-  Working on **IoT-based weather monitoring and control systems**, focusing on embedded firmware and field deployment.  
-- 🛰 **Former Intern @ IIST Trivandrum (2023)** — Worked on the **Nano-Satellite On-Board Computer (OBC)** and avionics subsystems.  
-- 🤖 **Former AI/ML Intern @ ShadowFox (2025)** — Developed ML-based predictive models and automation systems.
+My experience includes building **cellular IoT and telemetry systems**, integrating industrial sensors, and deploying firmware in real-world environments.
 
----
+I have worked with:
+- 📡 **Cellular communication** (LTE/GSM, PPPoS)
+- 🔗 **Protocols** (MQTT, TCP/IP, HTTP/HTTPS, Modbus RTU)
+- ⚙️ **Embedded systems** (ESP32/ESP8266, moving to STM32 ARM)
+- 🔧 **Sensor integration** (4–20mA, I2C – SEN66, industrial devices)
 
-## 🧠 Career Objective
-
-To apply my technical expertise and creativity in developing next-generation solutions in **avionics, IoT, embedded AI, and communication systems**, while continuously learning emerging technologies to build scalable and intelligent systems.
-
----
-
-## 🎓 Education
-
-| Qualification | Institution | Year |
-|----------------|--------------|------|
-| **B.Tech in ECE (Avionics)** | Central University of Jammu | 2022–2026 |
-| **Class XII (UPMSP)** | Islamiya Inter College, Saharanpur | 2021 |
+Currently expanding into:
+- 🧠 **STM32 (ARM Cortex-M)**
+- ⏱ **RTOS (FreeRTOS)**
+- 🐧 **Embedded Linux & system-level development**
 
 ---
 
-## 🛠️ Technical Skills
+## 🏗️ What I Build
+
+- 🔹 **Industrial telemetry systems** (sensor → cloud over cellular)
+- 🔹 **OTA firmware update systems** (HTTPS / MQTT-based)
+- 🔹 **GSM/LTE-based embedded devices**
+- 🔹 **Modbus & industrial sensor integration systems**
+
+---
+
+## 🚀 Featured Projects
+
+### 🔸 Real-Time Telemetry System (ESP32 + LTE)
+Cellular-based telemetry device using PPPoS, HTTPS, and REST APIs for real-world deployment.
+
+### 🔸 GSM-Based Monitoring System
+Standalone system using SIM800L for real-time alerts without internet.
+
+### 🔸 OTA Firmware Update Systems
+Implemented secure OTA using **HTTPS** and **MQTT** for remote device management.
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages:**  
-`C`, `C++`, `Python`, `MATLAB`
+`C` `C++`
 
-**Core Areas:**  
-`Embedded Systems`, `Microcontrollers`, `IoT`, `Communication Systems`, `Avionics`, `AI/ML`
+**Embedded Platforms:**  
+`ESP32` `ESP8266` `STM32 (Learning)` `LPC2148`
 
-**Tools & Hardware:**  
-`Arduino`, `ESP32`,`STM32`, `LPC2148`, `Simulink`, `Git`, `Arduino IDE`, `LoRa Modules`
+**Protocols & Communication:**  
+`LTE/GSM` `MQTT` `TCP/IP` `HTTP/HTTPS` `Modbus RTU`
 
----
-
-## 🚀 Projects
-
-### 🔹 ESP8266 GSM Shutter Alert System *(Individual Project, 2025)*
-Developed a **GSM-based shutter monitoring system** using ESP8266 and SIM800L for security applications.  
-Implemented **real-time OPEN/CLOSE detection** with **instant SMS alerts**, functioning without Wi-Fi or internet.  
-**Tech:** ESP8266, SIM800L, C/C++, Arduino IDE, GSM AT Commands, EEPROM
+**Tools:**  
+`STM32CubeIDE` `Arduino IDE` `VS Code` `Git` `Serial Debugging`
 
 ---
 
-### 🔹 ESP32 Secure OTA Firmware Update via HTTPS *(Individual Project, 2025)*
-Developed a secure **Over-The-Air (OTA)** firmware update mechanism for ESP32 using **HTTPS protocol**.  
-Integrated **GitHub-hosted firmware**, version control, and automatic update checks to enable **remote, cloud-based firmware deployment**.  
-**Tech:** C/C++, Arduino IDE, ESP32, HTTPS, Cloud Integration
+## 📈 Current Focus
+
+```text
+ESP32 → STM32 → RTOS → Embedded Linux → System-Level Engineering
+
 
 ---
 
-### 🔹 ESP32 OTA Firmware Update via MQTT *(Individual Project, 2025)*
-Implemented a **lightweight OTA firmware delivery system** using **MQTT protocol**, enabling **real-time updates** in IoT environments.  
-Ensured secure, efficient communication and seamless firmware version management across distributed nodes.  
-**Tech:** C/C++, ESP32, MQTT, Arduino IDE
+## 🤝 Let's Connect
+
+📫 Email: [mohdmusharraf8006@gmail.com](mailto:mohdmusharraf8006@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/mohd-musharraf-342125303](https://linkedin.com/in/mohd-musharraf-342125303)
 
 ---
 
-### 🔹 RFID-Based Door Access System *(Group Project, 2024)*
-Designed and implemented an **RFID-based access control system** with **servo motor automation** for authenticated entry.  
-Enhanced automation and security in restricted zones.  
-**Tech:** Arduino, C, RFID Module, Servo Motor
-
----
-
-### 🔹 LoRa-Based Communication System *(Individual Project, 2025)*
-Built a **LoRa-based wireless data transmission system** for long-range IoT communication between sensor nodes.  
-Tested network reliability and packet delivery under various environmental conditions, enabling low-power, wide-area connectivity.  
-**Tech:** Arduino, ESP32, LoRa SX1278, C/C++
-
----
-
-## 🧩 Relevant Coursework
-
-- Aerospace Technology  
-- Introduction to Space Technology  
-- Communication Systems  
-- Data Communication & Computer Networks  
-
----
-
-## 📜 Certifications
-
-- 🌌 **ISRO–IIRS** – Overview of Space Science & Technology (22 hrs, 2023)  
-- 📊 **NPTEL** – Economics of Innovation (12-week course, 2024)  
-- 🌐 **Infosys Springboard** – Introduction to IoT (2024)  
-- 🛡 **DEF CON (IIIT Delhi)** – Cybersecurity Workshops  
-
----
-
-## 🧭 Positions of Responsibility
-
-- 💰 **Treasurer**, Innovation Club – Central University of Jammu
-
----
-
-## 📊 GitHub Stats
-
-![Musharraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdMusharrafGit&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdMusharrafGit&layout=compact&theme=radical)
-
----
-
-## 🔗 Let's Connect
-
-📫 **Email:** [mohdmusharraf8006@gmail.com](mailto:mohdmusharraf8006@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/mohd-musharraf-342125303](https://linkedin.com/in/mohd-musharraf-342125303)  
-💻 **GitHub:** [github.com/MohdMusharrafGit](https://github.com/MohdMusharrafGit)
-
----
-
-> _"Exploring the skies. Coding the future."_ 🚀
+> Building embedded systems that work beyond the lab — in real environments.
