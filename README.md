@@ -71,8 +71,8 @@ ESP32 → STM32 → RTOS → Embedded Linux → System-Level Engineering
 
 ## 🤝 Let's Connect
 
-📫 Email: [mohdmusharraf8006@gmail.com](mailto:mohdmusharraf8006@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/mohd-musharraf-342125303](https://linkedin.com/in/mohd-musharraf-342125303)
+📫 Email: mohdmusharraf8006@gmail.com  
+💼 LinkedIn: linkedin.com/in/mohd-musharraf-342125303
 
 ---
 
